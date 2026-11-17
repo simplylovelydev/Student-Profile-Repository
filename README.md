@@ -7,5 +7,5 @@ Web Development Lab activity demonstrating collaborative Git workflows, feature 
 | :--- | :--- | :--- | :--- |
 | **Team Lead & Reviewer** | Dinesh Munagala | `main` | `README.md` |
 | **Profile Developer** | Dhruva Kumar  | `feature/profile` | `profile.html` |
-| **Skills Developer** | Khatal Sohail ] | `feature/skills` | `skills.html` |
+| **Skills Developer** | Khatal Sohail  | `feature/skills` | `skills.html` |
 | **Contact Developer** | Allampally Advik Gupta | `feature/contact` | `contact.html` |
